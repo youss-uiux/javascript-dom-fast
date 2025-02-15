@@ -1,0 +1,16 @@
+Qu'est-ce que le DOM ?
+	Explication simple avec analogie (arbre du HTML)
+Sélectionner un élément du DOM
+	getElementById, querySelector, querySelectorAll
+Modifier le texte et le style d'un élément
+	.textContent, .innerHTML, .style
+Écouter des événements utilisateur
+	.addEventListener('click', function() {})
+Créer et supprimer des éléments du DOM
+	createElement, appendChild, remove()
+Manipuler les classes CSS
+	.classList.add(), .classList.remove(), .classList.toggle()
+
+Mini projet: 
+    Calculatrice, Todo list 
+
