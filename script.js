@@ -1,0 +1,2 @@
+nom ="Mariam";
+alert(nom);

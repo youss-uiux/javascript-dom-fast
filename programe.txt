@@ -12,5 +12,5 @@ Manipuler les classes CSS
 	.classList.add(), .classList.remove(), .classList.toggle()
 
 Mini projet: 
-    Calculatrice, Todo list 
+    Calculatrice, Todo list  
 
